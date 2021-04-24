@@ -9,7 +9,7 @@ Section headings are styled to remove numbering, font is Helvetica. Commands are
 - `\link`\
 Creates a hyperlink where the label and link are the same, underlines the text.\
 Usage:\
-`\link{exmple.com}`
+`\link{example.com}`
 
 - `\job`\
 Job history item.\
